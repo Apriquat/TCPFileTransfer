@@ -1,0 +1,3 @@
+C:\Users\dscho\source\repos\TCPFileTransfer\TCPFileTransfer\x64\Debug\TCPFileTransfer.vcxproj.MdMergeInputs.cache
+C:\Users\dscho\source\repos\TCPFileTransfer\TCPFileTransfer\x64\Debug\TCPFileTransfer.vcxproj.cppwinrt_plat.cache
+C:\Users\dscho\source\repos\TCPFileTransfer\TCPFileTransfer\x64\Debug\TCPFileTransfer.vcxproj.cppwinrt_comp.cache
